@@ -1,0 +1,16 @@
+langchain
+langchain-chroma
+langchain-community
+langchain-core
+langchain-huggingface
+transformers
+langchain-text-splitters
+langchain-google-genai
+chromadb
+accelerate
+python-multipart
+sentence-transformers
+streamlit
+tavily-python
+numexpr
+langgraph
